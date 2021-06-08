@@ -1,9 +1,9 @@
 # clonesUI
  This project has the objective to impruve my html and css habilities by cloning the interface off some layouts from Figma or real aplications
  
- #Gravity
+ <h1>Gravity</h1>
  
- layout: https://www.figma.com/file/Zi88pUgrqnP6K2H0jj8C3v/Time-Tracking-Landing-Page-Hero-(Community)
+ layout: https://www.figma.com/file/1c23Mcr1Ej2yhUT0nq3i1X/Time-Tracking-Landing-Page-Hero-(Community)
  
  At this point i need top create the responsive to pass by mobal to desktop.
  
