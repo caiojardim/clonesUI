@@ -9,11 +9,11 @@
  
  <h3>Cloning this interface I learned:<h3>
  <ul>
-  <li>- Use external fonts with @font-face</li>
-  <li>- Edit svg img</li>
-  <li>- Use box-shadow</li>
-  <li>- Resize image by view whidth</li>
-  <li>- Reuse proprieties of @media without repeating</li>
+  <li>Use external fonts with @font-face</li>
+  <li>Edit svg img</li>
+  <li>Use box-shadow</li>
+  <li>Resize image by view whidth</li>
+  <li>Reuse proprieties of @media without repeating</li>
  <ul>
   
   
