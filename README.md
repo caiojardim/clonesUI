@@ -8,9 +8,16 @@
  At this point i need top create the responsive to pass by mobal to desktop.
  
  <h3>Cloning this interface I learned:<h3>
-  - Use external fonts with @font-face
-  - Edit svg img
-  - Use box-shadow
-  - Resize image by view whidth
-  - Reuse proprieties of @media without repeating
+ <ul>
+  <li>- Use external fonts with @font-face</li>
+  <li>- Edit svg img</li>
+  <li>- Use box-shadow</li>
+  <li>- Resize image by view whidth</li>
+  <li>- Reuse proprieties of @media without repeating</li>
+ <ul>
+  
+  
+  
+  
+  
  
