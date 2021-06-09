@@ -16,6 +16,12 @@
   <li>Reuse proprieties of @media without repeating</li>
  <ul>
   
+ <h3>things I need to improve</h3>
+ <ul>
+  <li>Coding this interface I found it difficult to make the responsive part especially on how I can change the size of the elements to fit the screen</li>
+ <ul>
+  
+  
   
   
   
