@@ -5,7 +5,7 @@
  
  layout: https://www.figma.com/file/1c23Mcr1Ej2yhUT0nq3i1X/Time-Tracking-Landing-Page-Hero-(Community)
  
- At this point i need top create the responsive to pass by mobal to desktop.
+ At this point, I need to adapt the size of the images and texts to better fit on tablets.
  
  <h3>Cloning this interface I learned:</h3>
  <ul>
