@@ -4,6 +4,7 @@ This project has the objective to impruve my html and css habilities by cloning 
 
  <h2>Gravity</h2>
  
+ My UIclone: https://clonesui-gravity.netlify.app/
  layout: https://www.figma.com/file/1c23Mcr1Ej2yhUT0nq3i1X/Time-Tracking-Landing-Page-Hero-(Community)
  
  <h3>Cloning this interface I learned:</h3>
