@@ -1,0 +1,77 @@
+@font-face {
+	font-family: "Graphik";
+	src: url("./fonts/GraphikBold.otf");
+	src: url("./fonts/GraphikMedium.otf");
+	src: url("./fonts/GraphikRegular.otf");
+	src: url("./fonts/GraphikSemibold.otf");
+	src: url("./fonts/GraphikSuper.otf");
+	src: url("./fonts/GraphikThin.otf");
+	src: url("./fonts/GraphikLight.otf");
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Graphik";
+	color: #fff;
+	background-color: #181818;
+}
+
+.header-container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 1rem 1.5rem;
+}
+
+.header-container div {
+	display: flex;
+	align-items: center;
+}
+
+.login {
+	text-decoration: none;
+	color: #fff;
+	font-size: 17px;
+	font-weight: 500;
+	line-height: 25px;
+	letter-spacing: 0.20000000298023224px;
+
+	border: 1px solid #ffffff;
+	padding: 10px 36px;
+}
+
+.menu {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	width: 44px;
+	height: 26.5px;
+
+	margin-left: 16px;
+}
+
+.menu .l1 {
+	align-self: flex-end;
+	width: 44px;
+	height: 4px;
+	background-color: #ffffff;
+}
+
+.menu .l2 {
+	align-self: flex-end;
+	width: 33px;
+	height: 4px;
+	background-color: #ffffff;
+}
+
+.menu .l3 {
+	align-self: flex-end;
+	width: 22px;
+	height: 4px;
+	background-color: #ffffff;
+}
