@@ -75,3 +75,80 @@ body {
 	height: 4px;
 	background-color: #ffffff;
 }
+
+.text-container {
+	margin: 0 76.5px;
+	margin-top: 57px;
+}
+
+.text-container h1 {
+	font-size: 52px;
+	font-weight: 400;
+	line-height: 62px;
+	letter-spacing: 0.20000000298023224px;
+	text-align: center;
+
+	padding: 10px;
+	margin: 0 44px;
+	margin-bottom: 7px;
+}
+
+.text-container p {
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 30px;
+	letter-spacing: 0.20000000298023224px;
+	text-align: center;
+
+	padding: 10px;
+}
+
+.button-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 21px;
+
+	margin-top: 57px;
+}
+
+.button-container .blue {
+	height: 65px;
+	width: 178px;
+	padding: 10px, 30px, 10px, 30px;
+	background-color: #4452fe;
+	border: none;
+
+	font-size: 17px;
+	font-weight: 500;
+	line-height: 25px;
+	letter-spacing: 0.20000000298023224px;
+	text-align: center;
+	color: #ffffff;
+}
+
+.button-container .white {
+	height: 65px;
+	width: 174px;
+	padding: 10px, 30px, 10px, 30px;
+	border: 1px solid #ffffff;
+	background-color: #00000000;
+
+	font-size: 17px;
+	font-weight: 500;
+	line-height: 25px;
+	letter-spacing: 0.20000000298023224px;
+	text-align: center;
+	color: #ffffff;
+}
+
+.img-container {
+	margin-top: 57px;
+	display: flex;
+	justify-content: center;
+	overflow: hidden;
+}
+
+.img-container img {
+	width: 170%;
+}
