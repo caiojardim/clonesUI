@@ -21,6 +21,10 @@ body {
 	background-color: #181818;
 }
 
+section {
+	margin: 3.563rem 0 7.1rem 0;
+}
+
 .header-container {
 	display: flex;
 	align-items: center;
@@ -36,114 +40,115 @@ body {
 .login {
 	text-decoration: none;
 	color: #fff;
-	font-size: 17px;
+	font-size: 1.063rem;
 	font-weight: 500;
-	line-height: 25px;
-	letter-spacing: 0.20000000298023224px;
+	line-height: 1.563rem;
+	letter-spacing: 0.013rem;
 
-	border: 1px solid #ffffff;
-	padding: 10px 36px;
+	border: 0.063rem solid #ffffff;
+	padding: 0.625rem 2.25rem;
 }
 
 .menu {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
-	width: 44px;
-	height: 26.5px;
+	width: 2.75rem;
+	height: 1.656rem;
 
-	margin-left: 16px;
+	margin-left: 1rem;
 }
 
 .menu .l1 {
 	align-self: flex-end;
-	width: 44px;
-	height: 4px;
+	width: 2.75rem;
+	height: 0.25rem;
 	background-color: #ffffff;
 }
 
 .menu .l2 {
 	align-self: flex-end;
-	width: 33px;
-	height: 4px;
+	width: 2.063rem;
+	height: 0.25rem;
 	background-color: #ffffff;
 }
 
 .menu .l3 {
 	align-self: flex-end;
-	width: 22px;
-	height: 4px;
+	width: 1.375rem;
+	height: 0.25rem;
 	background-color: #ffffff;
 }
 
 .text-container {
-	margin: 0 76.5px;
-	margin-top: 57px;
+	margin: 0 4.781rem;
 }
 
 .text-container h1 {
-	font-size: 52px;
+	font-size: 3.25rem;
 	font-weight: 400;
-	line-height: 62px;
-	letter-spacing: 0.20000000298023224px;
+	line-height: 3.875rem;
+	letter-spacing: 0.013rem;
 	text-align: center;
+	display: flex;
+	justify-content: center;
 
-	padding: 10px;
-	margin: 0 44px;
-	margin-bottom: 7px;
+	padding: 0.625rem;
+	margin: 0 2.75rem;
+	margin-bottom: 0.438rem;
 }
 
 .text-container p {
-	font-size: 20px;
+	font-size: 1.25rem;
 	font-weight: 400;
-	line-height: 30px;
-	letter-spacing: 0.20000000298023224px;
+	line-height: 1.875rem;
+	letter-spacing: 0.013rem;
 	text-align: center;
 
-	padding: 10px;
+	padding: 0.625rem;
 }
 
 .button-container {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	gap: 21px;
+	gap: 1.313rem;
 
-	margin-top: 57px;
+	margin-top: 3.563rem;
 }
 
 .button-container .blue {
-	height: 65px;
-	width: 178px;
-	padding: 10px, 30px, 10px, 30px;
+	height: 4.063rem;
+	width: 11.125rem;
+	padding: 0.625rem, 1.875rem, 0.625rem, 1.875rem;
 	background-color: #4452fe;
 	border: none;
 
-	font-size: 17px;
+	font-size: 1.063rem;
 	font-weight: 500;
-	line-height: 25px;
-	letter-spacing: 0.20000000298023224px;
+	line-height: 1.563rem;
+	letter-spacing: 0.013rem;
 	text-align: center;
 	color: #ffffff;
 }
 
 .button-container .white {
-	height: 65px;
-	width: 174px;
-	padding: 10px, 30px, 10px, 30px;
-	border: 1px solid #ffffff;
+	height: 4.063rem;
+	width: 10.875rem;
+	padding: 0.625rem, 1.875rem, 0.625rem, 1.875rem;
+	border: 0.063rem solid #ffffff;
 	background-color: #00000000;
 
-	font-size: 17px;
+	font-size: 1.063rem;
 	font-weight: 500;
-	line-height: 25px;
-	letter-spacing: 0.20000000298023224px;
+	line-height: 1.563rem;
+	letter-spacing: 0.013rem;
 	text-align: center;
 	color: #ffffff;
 }
 
 .img-container {
-	margin-top: 57px;
+	margin-top: 3.563rem;
 	display: flex;
 	justify-content: center;
 	overflow: hidden;
@@ -151,4 +156,27 @@ body {
 
 .img-container img {
 	width: 170%;
+}
+
+@media (max-width: 450px) {
+	.header-container > a {
+		width: 100%;
+		min-width: 150px;
+	}
+	.header-container a img {
+		width: 100%;
+	}
+
+	html {
+		font-size: 0.8rem;
+	}
+}
+
+@media (max-width: 328px) {
+	.login {
+		padding: 0.625rem 1.75rem;
+	}
+	html {
+		font-size: 0.6rem;
+	}
 }
