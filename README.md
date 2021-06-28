@@ -28,5 +28,6 @@ This project has the objective to impruve my html and css habilities by cloning 
  <h3>Cloning this interface I learned:</h3>
  <ul>
   <li>Use a whole font-family in separeted into diferents files with @font-face</li>
-  <li>creating containers to make it easy to create boundaries for content</li>
+  <li>Creating containers to make it easy to create boundaries for content</li>
+  <li>Deal with margin colapse</li>
  </ul>
