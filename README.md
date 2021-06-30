@@ -30,4 +30,5 @@ This project has the objective to impruve my html and css habilities by cloning 
   <li>Use a whole font-family in separeted into diferents files with @font-face</li>
   <li>Creating containers to make it easy to create boundaries for content</li>
   <li>Deal with margin colapse</li>
+  <li>Use common classes to save time and use specific classes to customize</li>
  </ul>
