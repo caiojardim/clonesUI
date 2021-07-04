@@ -21,7 +21,7 @@ This project has the objective to impruve my html and css habilities by cloning 
   <li>Coding this interface I found it difficult to make the responsive part especially on how I can change the size of the elements to fit the screen</li>
  </ul>
 
- <h2>Figma Land</h2>
+ <h1>Figma Land</h1>
 
  <p>layout: https://www.figma.com/file/YGfhGYInJaLYHqAFvrjd8c/Figma-startup-landing-page-dark-(Community)</p>
 
