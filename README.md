@@ -2,7 +2,7 @@
 
 This project has the objective to impruve my html and css habilities by cloning the interface off some layouts from Figma or real aplications
 
- <h2>Gravity</h2>
+ <h1>Gravity</h1>
  
  <p>Demo: https://clonesui-gravity.netlify.app/</p>
  <p>layout: https://www.figma.com/file/1c23Mcr1Ej2yhUT0nq3i1X/Time-Tracking-Landing-Page-Hero-(Community)</p>
